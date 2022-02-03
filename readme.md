@@ -16,4 +16,8 @@
 - chart.js を使って思った通りにできたのは嬉しかった。
 - 配列をきっちりと押さえることで、さまざまな応用も可能になることは再認識した。
 
-## URL
+## 画面
+![image](https://user-images.githubusercontent.com/95999068/152345349-43668e70-1c43-4f5e-a996-57d402eab71b.png)
+<img width="654" alt="スクリーンショット 2022-02-03 21 45 37" src="https://user-images.githubusercontent.com/95999068/152345636-26cedc8c-457b-417a-844f-19838c55c7bb.png">
+![image](https://user-images.githubusercontent.com/95999068/152345665-4897ddb3-900b-4638-a661-8b095089ab0b.png)
+
