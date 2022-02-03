@@ -18,6 +18,6 @@
 
 ## 画面
 ![image](https://user-images.githubusercontent.com/95999068/152345349-43668e70-1c43-4f5e-a996-57d402eab71b.png)
-<img width="654" alt="スクリーンショット 2022-02-03 21 45 37" src="https://user-images.githubusercontent.com/95999068/152345636-26cedc8c-457b-417a-844f-19838c55c7bb.png">
+![image](https://user-images.githubusercontent.com/95999068/152345801-16b8f4b8-c45f-49a3-a241-bc29d1517247.png)
 ![image](https://user-images.githubusercontent.com/95999068/152345665-4897ddb3-900b-4638-a661-8b095089ab0b.png)
 
